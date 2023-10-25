@@ -9,6 +9,6 @@ The data contained null values hence I first cleaned the dataset, changed the co
 <be>
 There are 2 important file in this repository. 
 <li>
-  <ol>1) p2.ipynb - This contains my Python code for data cleaning and exploratory data analysis.</ol>
+  <ol>1) python_data_analysis_code.ipynb - This contains my Python code for data cleaning and exploratory data analysis.</ol>
   <ol>2) state_india.geojson - This will be necessary in order to print the output of the final question.</ol>
 </li>
